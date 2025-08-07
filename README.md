@@ -1,4 +1,5 @@
 🚀 AWS Cloud Resume Challenge
+
 I managed to complete my Cloud Resume Challenge several weeks ago and learned so much along the way. There were times where I could not get it to work, or my formatting was a tad bad, but overcame all the challenges I faced. What I am left with is an online resume, that I am already modifying as this will serve as my static AWS website. I hope to enhance the HTML behind it and add couple of tabs so one can serve as a landing page, while the next tab can contain my resume.
 
 🔧 The Project
